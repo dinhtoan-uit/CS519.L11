@@ -1,9 +1,9 @@
 Nhóm N008
 Danh sách thành viên:
 
-1.Đinh Thanh Toàn 18521504
-2.Phan Hoàng Nguyên 18521163
-3.Hồ Đăng Tuệ 18521611
+1. Đinh Thanh Toàn 18521504
+2. Phan Hoàng Nguyên 18521163
+3. Hồ Đăng Tuệ 18521611
 
 ###  Video ["5 tips to improve your critical thinking - Samantha Agoos"](https://www.youtube.com/watch?v=dItUGF8GdTw)
 
